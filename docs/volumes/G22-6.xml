@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Grootjen-2022-Quantifying">
+    <titleInfo>
+        <title>Quantifying the role of reservoirs in altering phosphorus dynamics using a combination of data analysis and process modeling</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tori</namePart>
+        <namePart type="family">Grootjen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Grootjen-2022-Quantifying</identifier>
+    <identifier type="doi">10012/18207</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G22-6001</url>
+    </location>
+    <part>
+        <date>2022</date>
+    </part>
+</mods>
+<mods ID="Cheng-2022-Evaluation">
+    <titleInfo>
+        <title>Evaluation of baseflow estimation methods with real and synthetic streamflow data from a watershed</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Siyu</namePart>
+        <namePart type="family">Cheng</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Cheng-2022-Evaluation</identifier>
+    <identifier type="doi">10012/17977</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G22-6002</url>
+    </location>
+    <part>
+        <date>2022</date>
+    </part>
+</mods>
+</modsCollection>

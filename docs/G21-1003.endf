@@ -1,0 +1,12 @@
+﻿%0 Journal Article
+%T A Comparative Study on Agent Based Decision Making Models: A Proof of Concept Focused on Farmers’ Decisions Regarding Best Management Practices
+%A Zhang, Duo
+%J Geography and Environmental Management, Master Thesis
+%D 2021
+%I University of Waterloo
+%F Zhang-2021-A
+%X In recent times, with the increasing availability of large datasets, applications of machine learning techniques have grown at a rapid speed. However, due to the black-box nature of these tools, it can be hard for model builders to understand the detailed structure of the system that machine learning models simulate. Agent-based modelling (ABM) is a popular approach to studying complex systems., One of the challenges for this technique is to design the decision making processes of the agents in the model. As machine learning tools have a strong ability to transform the information from the raw data into a functional model as the decision making processes for agents in ABMs. Because an ABM can provide a detailed structure for the system that the machine learning model simulates, it is reasonable to combine the two kinds of models. However, although in previous studies, some researchers combine the two models, most of them use one of the two models as a validation tool for the other, rather than to integrate the machine learning model into the decision making processes of agents in ABMs. Therefore, this thesis focuses on integrating a machine learning model into the ABM, and contrast it with the ABMs with two traditional decision making models, including an optimal model and a stochastic model. To compare the three decision making models, we use farmers’ BMP adoption case in the Upper Medway subwatershed, and contrast the three models through three metrics, including the percentage of BMP adoption, size of agricultural land of BMP adoption, and the correlation between BMP adoption and landuse types. As a result, the ABM with the machine learning model presents a high level of accuracy compared with the other two traditional models, but its adaptability to other cases and the robustness to uncertainties still require a further study.
+%R 10012/16694
+%U https://gwf-uwaterloo.github.io/gwf-publications/G21-1003
+%U https://doi.org/10012/16694
+

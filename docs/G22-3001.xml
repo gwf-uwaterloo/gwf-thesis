@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Gyapay-2022-Supporting">
+    <titleInfo>
+        <title>Supporting Inuvialuit Food Sovereignty: Characterizing Culture-Centered Dietary Messages for Healthy, Safe and Culturally Appropriate Diets in the Inuvialuit Settlement Region, Northwest Territories</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Julia</namePart>
+        <namePart type="family">Gyapay</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>School of Public Health and Health Systems, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Contemporary Inuit diets are comprised of both country and store-bought foods, which each confer benefits and risks to Inuit physical, mental, cultural, spiritual and socio-economic health. Inuit residing in Inuit Nunangat (the Canadian traditional homelands of the Inuit) disproportionately experience food insecurity and impacts of climate change, threatening the quality and safety of foods consumed. Elevated concentrations of certain environmental contaminants in Inuit Nunangat represent a concerning source of Inuit dietary exposure to contaminants through country food consumption. Further, Inuit are experiencing disconcertingly high rates of chronic diseases, are consuming less nutritious and culturally significant country foods, and are consuming more unhealthy, non-nutrient dense store-bought foods. It is therefore imperative that Inuit communities have access to evidence-informed and culturally relevant information promoting healthy and safe diets to support their nutritional and cultural well-being. Dietary messages addressing the health risks and benefits of country and store-bought food choices and activities in the Inuvialuit Settlement Region (ISR) of the Northwest Territories (NWT) aim to reduce harm and improve health among Inuvialuit (Inuit from the Western Arctic). However, an understanding of how dietary messages are developed and disseminated in the ISR remains unknown and best practices for collaborative approaches to nutrition communication grounded in Inuvialuit culture and knowledge is understudied. This project aims to fill these gaps in knowledge, extending our understanding of dietary message communication strategies in Inuit communities. The purpose of this thesis is to (1) Characterize current public health dietary messages in the ISR (Study 1); (2) Identify how territorial, regional and local dietary message disseminators, local country food knowledge holders, and the public in Tuktoyaktuk can co-develop culture-centered dietary messages to more effectively promote healthy, safe and culturally appropriate diets in the community (Study 2); and (3) Provide recommendations to territorial, regional and local dietary message stakeholders to further improve dietary messaging in the ISR and NWT (Studies 1 and 2). This study utilized an Indigenous research paradigm and community-based participatory and decolonizing research approaches. An in-person interview (n=1) (February 2020) and telephone interviews (n=13) (May-June 2020) were conducted with key informants (health professionals, government employees and community nutrition program coordinators) in Inuvik, Tuktoyaktuk, Paulatuk and Yellowknife (Study 1). An Inuvialuk community researcher conducted storytelling interviews with country food knowledge holders (n=7) and community members (n=3), and a talking circle with local public health dietary message disseminators (n=2) between June-July 2021 in Tuktoyaktuk (Study 2). Follow-up key informant telephone and videoconference interviews with territorial and regional dietary message disseminators (n=5) were completed in June 2021 (Study 2). Interviews were analyzed using thematic analysis. The findings indicated that dietary messages disseminated to the public in the ISR are developed at all scales and communicated by territorial and regional (allied) health professionals, territorial and regional health department representatives, regional and local food program coordinators, academic researchers, country food knowledge holders and local leadership through a variety of in- person, written, audio and online methods. Country food knowledge holders communicate their own messaging through the sharing of Inuvialuit knowledge while harvesting and preparing country food in their communities. Public health dietary messages focus predominantly on a) healthy store-bought food choices, b) nutritional advice about store-bought and country foods and c) safety risks of consuming country foods. Federal and territorial messaging is seldom tailored to the ISR, lacking representation of the Inuvialuit food system and consideration of local food realities. Key barriers to regionally tailored, culture-centered dietary message development and dissemination in the ISR included a lack of collaboration between stakeholders involved in communications and limited resources required to develop trusting, respectful and collaborative relationships between dietary message stakeholders. Participants at all levels support increased inclusion of cultural and community perspectives about food to develop regionally and locally tailored dietary messaging, especially about country food harvesting and preparation knowledge and skills. Although most dietary message stakeholders wish to be involved in co- development processes, some country food knowledge holders desire leading traditional communications about country foods in Tuktoyaktuk. This project has made an important contribution to the literature on health and risk communication about country and store-bought foods in northern Indigenous communities by characterizing dietary messages disseminated in, for and within the ISR, examining residents’ awareness of messages, and identifying best practices for co-developing regionally and locally-tailored, culture- centered dietary messages in the ISR. Findings from this project have informed the creation of the Inuvialuit Food Messages Survey to evaluate the effectiveness of dietary messages as part of the ongoing Country Foods for Good Health project. Findings have also informed recommendations to NWT and ISR dietary message stakeholders to more effectively promote healthy, safe and culturally appropriate diets in Tuktoyaktuk and the ISR through the (co-) development and dissemination of culture-centered dietary messaging that supports Inuvialuit food sovereignty. Additionally, the process of conducting this thesis during the COVID-19 pandemic has led to methodological innovations for working remotely with community researchers and is able to provide key recommendations for researchers that can be used post- pandemic. These findings and recommendations have practical applications for other Inuit Nunangat regions and Canadian northern Indigenous communities interested in understanding and improving dietary messaging communication strategies.</abstract>
+    <identifier type="citekey">Gyapay-2022-Supporting</identifier>
+    <identifier type="doi">10012/18061</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G22-3001</url>
+    </location>
+    <part>
+        <date>2022</date>
+    </part>
+</mods>
+</modsCollection>

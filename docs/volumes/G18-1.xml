@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Mollaee-2018-Estimation">
+    <titleInfo>
+        <title>Estimation of Phytoplankton Chlorophyll-a Concentration in the Western Basin of Lake Erie Using Sentinel-2 and Sentinel-3 Data</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Somayeh</namePart>
+        <namePart type="family">Mollaee</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Mollaee-2018-Estimation</identifier>
+    <identifier type="doi">10012/13456</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G18-1001</url>
+    </location>
+    <part>
+        <date>2018</date>
+    </part>
+</mods>
+<mods ID="Grant-2018-Preferential">
+    <titleInfo>
+        <title>Preferential flowpaths and fertilizer placement influence subsurface P transport across soil textures and seasonal conditions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kirsten</namePart>
+        <namePart type="family">Grant</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Grant-2018-Preferential</identifier>
+    <identifier type="doi">10012/14248</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G18-1002</url>
+    </location>
+    <part>
+        <date>2018</date>
+    </part>
+</mods>
+<mods ID="Guo-2018-Simulating">
+    <titleInfo>
+        <title>Simulating Farmer Adoption of Agricultural Best Management Practices in the Upper Medway Creek Subwatershed</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Liuyi</namePart>
+        <namePart type="family">Guo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Guo-2018-Simulating</identifier>
+    <identifier type="doi">10012/14003</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G18-1003</url>
+    </location>
+    <part>
+        <date>2018</date>
+    </part>
+</mods>
+</modsCollection>

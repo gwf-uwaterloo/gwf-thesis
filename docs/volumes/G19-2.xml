@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Sabur-2019-Interactions">
+    <titleInfo>
+        <title>Interactions of Phosphate and Silicate with Iron oxides in Freshwater Environments</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Md</namePart>
+        <namePart type="given">Abdus</namePart>
+        <namePart type="family">Sabur</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Sabur-2019-Interactions</identifier>
+    <identifier type="doi">10012/14575</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-2001</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Liu-2020-Checkered">
+    <titleInfo>
+        <title>Checkered Landscapes: Quantifying Dominant Control on Nitrogen Legacies and Time Lags along the River Continuum</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yuhe</namePart>
+        <namePart type="given">(Joy)</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>In agricultural watersheds across the world, decades of commercial fertilizer application and intensive livestock production have led to elevated stream nutrient levels and problems of eutrophication in both inland and coastal waters. Despite widespread implementation of a range of strategies to reduce nutrient export to receiving water bodies, expected improvements in water quality have often not been observed. It is increasingly understood that long time lags to seeing reductions in stream nutrient concentrations can result from the existence of legacy nutrient stores within the landscape. However, it is less understood how spatial heterogeneity in legacy nutrient dynamics might allow us to target implementation of appropriate management practices. In this thesis, we have explored the dominant controls of legacy nitrogen accumulation in a predominantly agricultural 6000-km2 mixed-landuse watershed. First, we synthesized a 216 year (1800 – 2016) nitrogen (N) mass balance trajectory at the subbasin scale accounting for inputs from population, agriculture, and atmospheric data, and output from crop production using a combination of census data, satellite imagery data, and existing model estimates. Using these data, we calculated the N surplus, defined as the difference between inputs to the soil surface from manure application, atmospheric deposition, fertilizer application, and biological N fixation, and outputs primarily from crop production. We then used the ELEMeNT-N model, with the estimates of the N mass balance components as the model inputs, to quantify legacy accumulation in the groundwater and soil in the study basin and 13 of its subbasins. Our results showed that from 1950, N surplus across the study site rose dramatically and plateaued in 1980. Agricultural inputs from fertilizer and biological nitrogen fixation were the dominant drivers of N surplus magnitude in all areas of the watershed. Model results revealed that 40% of the N surplus to the watershed since 1940 is stored as legacy N, and that the proportion of N surplus that is stored as legacy vary across the watershed, ranging from 33% to 69%. Where legacy tends to accumulate also varies across the watershed, ranging from 49% - 72% stored in soil, and 28% - 51% stored in groundwater. Through correlation analysis, we found that soil N accumulation tends to occur where there is high agricultural N surplus, and groundwater N accumulation tends to occur where mean groundwater travel times are long. We also found that using the model calibrated mean groundwater travel times as an indication of lag times, we can identify the length of lag time in various regions in the watershed to help inform long-term management plans. Our modeling framework provides a way forward for the design of more targeted approaches to water quality management.</abstract>
+    <identifier type="citekey">Liu-2020-Checkered</identifier>
+    <identifier type="doi">10012/16144</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-4001</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

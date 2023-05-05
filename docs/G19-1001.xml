@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Brown-2019-Application">
+    <titleInfo>
+        <title>Application of a Hydrological Model for Predicting River Ice Breakup</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Genevieve</namePart>
+        <namePart type="family">Brown</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>In cold regions, the breakup of river ice can be a significant event, resulting in flooding and damage to communities. Given the severity of such events, it is desirable to be able to predict the timing and severity of breakup. Limited progress has been made on forecasting breakup related flooding as no deterministic model of the breakup process and ice jam formation exist. Current tools for predicting breakup rely on developing a relationship between the previous winter conditions and the current spring conditions, with the understanding that a rapid or large runoff with a thick ice cover has the potential for a more severe breakup than if ice has had time to melt. These tools are largely empirical, statistical, or soft computing methods which rely on historical data sets of discrete observations to relate the complex relationship between climate and hydrology to breakup conditions and are limited by access to the extensive data required. Within the current prediction methods, the application of hydrological models for forecasting breakup timing and severity is limited. Hydrological models can address some of the limitations of current tools, as they are able to simulate the complex relationships between climate and hydrology which has a strong influence on the breakup period. Additionally, hydrological models may be more practical in regions with limited data, as they can simulate variables of interest instead of relying on large historical data sets. This thesis demonstrates how a hydrological model can be used to predict the timing and severity of breakup, through the coupling of a 1D river ice model with a hydrological model. Emphasis is placed on the development of the hydrological model to ensure that it provides realistic results throughout the basin. The Liard basin, a large relatively data sparse river basin, in northern Canada is used as a case study. A thorough calibration strategy, based on an iterative, multi-objective approach is used in the development of the model. The final model exhibits strong performance in both calibration and validation throughout the basin. A simple 1D river ice model in MATLAB is coupled with the hydrological model. The hydrological model can forecast the timing of breakup well based on the timing of the initial rise in the hydrograph. Breakup severity is predicted using a simple threshold model based on ice thickness, flow, and accumulated shortwave radiation. The prediction method was applied to an independent location as verification of the methodology with promising results.</abstract>
+    <identifier type="citekey">Brown-2019-Application</identifier>
+    <identifier type="doi">10012/15285</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-1001</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+</modsCollection>

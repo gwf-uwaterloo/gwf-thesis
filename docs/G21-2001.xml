@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Ikert-2021-Impacts">
+    <titleInfo>
+        <title>Impacts of acute and anthropogenic stress on fish microRNA</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Heather</namePart>
+        <namePart type="family">Ikert</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Biology, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Fishes play crucial roles in the ecology of aquatic environments and contribute to the multi-billion-dollar fisheries industry. The integrity of their populations and health needs to be maintained for future generations and research on the biology and effects of stress on fish can contribute to this cause. While much is understood about the adrenergic response to stress which results in the secretion of catecholamines and cortisol, there is much to be understood about molecular mechanisms of stress, such as the role of microRNAs. MicroRNAs (miRNAs) regulate post-transcriptional molecular responses by binding to mRNA and labelling them for degradation or blocking translation, effectively decreasing target protein translation levels. The response of miRNA transcript levels to environmental stressors, such as increased water temperatures, have been measured in fish since 2009. However, there is still much that is poorly understood about the effects of fish stress on miRNA levels, such as how time sensitive the response is, whether the response is tissue specific, and whether it is possible to measure miRNAs in non-lethal or non-invasive samples, such as mucus or the water surrounding fish. Furthermore, there are many gaps in understanding of how miRNA levels are altered in non-model species, such as salmonids. Most studies of fish stressors often focus on single stressor studies to elucidate the molecular mechanisms however, fish are not exposed to stressors individually in the aquatic environment. Therefore, it is important to study the simultaneous effects of multiple, emerging anthropogenic stressors of concern (e.g., increased water temperature, decreased dissolved oxygen, and pharmaceutical contaminants), on fish and their miRNA levels. The overall goal of my thesis is to determine how transcript levels of miRNAs are regulated when fishes are exposed to stress. More specifically, I wanted to further characterize the miRNA response in different tissues and at different timepoints, in both model and non-model fish species, to determine the conservation or specificity of the miRNA response. I also aimed to determine if it was possible to sample miRNAs in non-lethally collected samples as a novel method of measuring stress in fish. Furthermore, I measured predicted downstream responses (mRNA transcript levels, protein abundances, and enzyme activities) to understand the functional implications of changes to miRNA transcript levels and to describe the molecular response to acute and anthropogenic stressors. In studying the effects of chronic exposure to anthropogenic stressors on zebrafish gonads, I found that the miRNA response was reversible and associated with adverse reproductive impacts (Chapter 2). In studying the effects of different lengths of exposure to anthropogenic stressors on zebrafish liver and muscle tissues, I determined that the miRNA response was specific to length of exposure, tissue type, as well as the sex of the fish, and that fish were activating cell stress, decontamination, metabolic, and reproductive responses (Chapter 3). In studying the effects of acute stress on rainbow and brook trout liver tissues, I found that miRNA transcript levels, mRNA transcript levels, and metabolic enzyme activities were altered in a time-dependent manner post-stress and that there was much intra-species and inter-species variability (Chapter 4). In studying the effects of acute stress on rainbow trout blood plasma, mucus, and the surrounding water, I found that miRNAs were able to be measured and transcript levels were altered following stress in all three non-lethal sampling locations (Chapter 5). Altogether, I have contributed further to identifying specific transcript levels of miRNA that respond to acute and anthropogenic stressors in multiple fish species. I have also characterized how the miRNA response is associated with the presence of the stressor, the length of exposure to the stressor, and the length of time following exposure to the stressor. These data are helpful in understanding the molecular regulation and response to stress and broadly contribute to understanding how miRNAs play a role in how organisms can adapt to transient or ongoing stressors. In addition, the downstream molecular responses associated with changes in miRNA transcript levels were also measured in response to these stressors and highlight the metabolic, reproductive, and cellular stress responses that the fish were activating when exposed to anthropogenic stressors, as well as filling in gaps of metabolic enzymes that are part of the acute stress response. My research also highlights the complex role that miRNAs play in finetuning the molecular response to stress, as there are still many gaps in understanding what the altered miRNA transcript levels are targeting and post transcriptionally regulating. In the future, instead of focusing on identifying miRNAs that are regulating a particular transcript or pathway of interest, priority can be given to identifying miRNAs that are crucial in driving the stress response or in allowing a particular individual or species to adapt to stress.</abstract>
+    <identifier type="citekey">Ikert-2021-Impacts</identifier>
+    <identifier type="doi">10012/17794</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-2001</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

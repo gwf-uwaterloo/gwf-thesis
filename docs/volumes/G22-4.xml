@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Remmer-2022-Use">
+    <titleInfo>
+        <title>Use of water isotope tracers to elucidate hydrological conditions of lakes in the Peace-Athabasca Delta over space and time: A foundation for lake ecosystem monitoring</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Casey</namePart>
+        <namePart type="family">Remmer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Biology, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Remmer-2022-Use</identifier>
+    <identifier type="doi">10012/17890</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G22-4001</url>
+    </location>
+    <part>
+        <date>2022</date>
+    </part>
+</mods>
+<mods ID="Kay-2022-Development">
+    <titleInfo>
+        <title>Development and application of paleolimnological analyses to disentangle the roles of natural processes and anthropogenic activities on contaminant deposition and hydrological conditions across a northern delta</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mitchell</namePart>
+        <namePart type="family">Kay</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Biology, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Kay-2022-Development</identifier>
+    <identifier type="doi">10012/18663</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G22-4002</url>
+    </location>
+    <part>
+        <date>2022</date>
+    </part>
+</mods>
+</modsCollection>

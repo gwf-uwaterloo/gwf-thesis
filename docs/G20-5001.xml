@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="AbedianAmiri-2020-Numerical">
+    <titleInfo>
+        <title>Numerical Modeling of Permafrost in Heterogeneous Media</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Erfan</namePart>
+        <namePart type="family">Abedian Amiri</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Interest in numerical modeling of permafrost has increased over the past decade due to accelerating rates of permafrost thaw. Discontinuous permafrost regions are particularly susceptible to climate change since small increases in mean annual temperature may lead to significant permafrost thaw, landscape change, changes in hydrologic connectivity, and greenhouse gas (GHG) emissions. The influence of local heterogeneities on the short- and long-term evolution of permafrost bodies is poorly understood. In order to numerically simulate the freeze-thaw processes in heterogenous media, a robust numerical model is desirable to overcome potential instabilities induced by heterogeneity in soil thermal properties. Here, such a model is developed, supplemented by a careful evaluation of the impact of heterogeneity upon the soil freezing curve, and applied to investigate the influence of local heterogeneity upon discontinuous permafrost evolution. Numerical models of permafrost evolution in porous media typically rely upon a smooth continuous relation between pore ice saturation and sub-freezing temperature, rather than the abrupt phase change that occurs in pure media. Soil scientists have known for decades that this function, known as the soil freezing curve (SFC), is related to the soil-water-characteristic-curve (SWCC) for unfrozen soils due to the analogous capillary and sorptive effects experienced during both soil freezing and drying. Herein we demonstrate that other factors beyond the SFC-SWCC relationship can influence the potential range over which pore water phase change occurs. In particular, we provide a theoretical extension for the functional form of the SFC based upon the presence of spatial heterogeneity in both soil thermal conductivity and the freezing point depression of water. We infer the functional form of the SFC from many abrupt-interface 1-D numerical simulations of heterogeneous systems with prescribed statistical distributions of water and soil properties. The proposed SFC paradigm extension has the appealing features that it (1) is determinable from measurable soil and water properties, (2) collapses into an abrupt phase transition for homogeneous media, (3) describes a wide range of heterogeneity within a single functional expression, and (4) replicates the observed hysteretic behavior of freeze-thaw cycles in soils. SFCs are used in all the permafrost models that use a continuum phase-change criterion. Here, an efficient enthalpy-based continuum numerical approach is introduced for solving heat transfer problems with non-isothermal phase change. In order to simulate permafrost over time spans of several years, a robust and efficient model is required. In the present setting, the heat transfer problem is converted to a minimization problem, in which we minimize a potential function that characterizes the governing heat transfer PDE within a time discrete framework. The use of the trust region minimization algorithm proves desirable due to the highly nonlinear energy functional which also involves non-convex terms induced by phase change. Results obtained show satisfactory agreement with existing analytical solutions. Moreover, the grid and timestep convergence studies conducted to examine the dependence of the solution on mesh and timestep sizes indicate robust convergence rates. This is the first application of trust region energy minimization algorithm in permafrost simulation. The two-dimensional enthalpy-based numerical model with continuum phase-change is applied to study the effect of heterogeneity in the soil freezing point on conduction-driven talik formation. This model is rigorously verified against Lunardini’s solution (Lunardini 1981), which is an analytical solution of the Stefan Problem with a non-isothermal phase-change criterion. Stochastic realizations of spatially correlated distributed soil thermal parameter fields are generated using the geostatistical software library (GSLIB) for a variety of correlation lengths and variances in material properties. These are used as input to the 2-D permafrost model under fully saturated conditions. The simulation results indicate that local heterogeneities have conditional effects on the formation of unfrozen zones and, eventually, talik. This influence is exacerbated under the presence of advective heat transfer, where small perturbations to the liquid water saturation can lead to preferential flow conduits. This work is extended by conducting sensitivity analysis to study the relative dependence of talik formation on different sources of heterogeneity (e.g. soil density and boundary conditions).</abstract>
+    <identifier type="citekey">Abedian Amiri-2020-Numerical</identifier>
+    <identifier type="doi">10012/15683</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-5001</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,63 @@
+<!doctype html><html lang=en-us><head><link rel=preconnect href=https://fonts.googleapis.com><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap" rel=stylesheet><meta charset=utf-8><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><script src=https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js></script><script>var unis={};$(document).on("change","input[type='checkbox']",function(){if(this.id.startsWith("check_year")){const collection=document.getElementById("main").children;for(child of collection)
+{if(child.id.startsWith(this.id.slice(-9)))
+{this.checked?child.style.display="initial":child.style.display="none";}}}else if(this.id.startsWith("uni")){var uni=this.id.slice(-7);if(unis[uni]==undefined)unis[uni]=true;this.checked?(unis[uni]=true):(unis[uni]=false);const collection=document.querySelectorAll("[data-uni="+uni+"]");for(child of collection){if(this.checked){child.parentNode.parentNode.setAttribute("style","display:flex !important")}else{disp_off_flag=true;for(child of child.parentNode.querySelectorAll("[data-uni]")){if(unis[child.getAttribute("data-uni")]==undefined)unis[child.getAttribute("data-uni")]=true;if(unis[child.getAttribute("data-uni")]==true){disp_off_flag=false;break;}}
+if(disp_off_flag){child.parentNode.parentNode.setAttribute("style","display:none !important");}}}}else if(this.id.startsWith("prj")){var prj=this.id.slice(-4);const collection=document.querySelectorAll("[data-prj="+prj+"]");for(child of collection){(this.checked)?child.setAttribute("style","display:initial !important"):child.setAttribute("style","display:none !important")}}});function clearAll(t){if(t=='year'){$(':input[id^="check_year"]').prop('checked',false);$('div[id^="year_"]').prop('style','display:none;');}else if(t=='uni'){$(':input[id^="uni"]').prop('checked',false);$('p.d-sm-flex').prop('style','display:none!important;');for(let key in unis){unis[key]=false}}else if(t=='prj'){$(':input[id^="prj"]').prop('checked',false);$('div[data-prj]').prop('style','display:none!important;');data-prj}}</script><style>.arrowup{border:solid #fff;border-width:0 3px 3px 0;display:inline-block;padding:5px;transform:rotate(-135deg);-webkit-transform:rotate(-135deg)}#topBtn{display:none;position:fixed;bottom:20px;right:30px;z-index:99;font-size:30px;border:none;outline:none;background-color:#29abe0;color:#fff;cursor:pointer;padding:15px;border-radius:8px;height:10dp}#topBtn:hover{background-color:#1b8dbb}.card-header-custom{cursor:pointer;-webkit-user-select:none;-ms-user-select:none;user-select:none}.clear-widget{color:#747474!important;background-color:#dee2e6;font-size:80%!important}.clear-widget:hover{color:#212529!important;background-color:#c1c9d0;cursor:pointer}</style><!--[if IEMobile]><meta http-equiv=cleartype content="on"><![endif]--><title>Twenty More Years of Computational Linguistics - GWF Publications</title><meta name=generator content="Hugo 0.68.3"><link href=/gwf-thesis/gwficon.ico rel="shortcut icon" type=image/x-icon><link rel=stylesheet href=/gwf-thesis/css/main.min.8976777c0832d068a49d330764e507857027f1efa3b8501cf349b0e2db7410fc.css media=screen><link rel=stylesheet href=https://use.fontawesome.com/releases/v5.7.2/css/all.css integrity=sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr crossorigin=anonymous><link rel=stylesheet href=/gwf-thesis/css/academicons.min.css></head><body><header style="z-index:1002;top:0;position:sticky;display:block;box-sizing:border-box;font-family:open sans,helvetica neue,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#222;-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%"><div id=navbar-container style="height:54px;width:100%;background:rgba(255,255,255,.95);overflow:hidden;-webkit-box-shadow:rgba(0,0,0,.09)0 1px 0;box-shadow:rgba(0,0,0,.09)0 1px 0;box-sizing:border-box;display:block;font-family:open sans,helvetica neue,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#222;-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%"><a href=/gwf-thesis/ style="color:#0072bc;text-decoration:none;display:inline-block;height:100%;line-height:54px;border-right:1px solid #e6e6e6;margin-left:6px;padding-right:6px;outline-offset:-4px!important;font-weight:700;background:0 0;box-sizing:border-box;cursor:pointer;font-family:open sans,helvetica neue,Helvetica,Arial,sans-serif;font-size:16px;-webkit-tap-highlight-color:transparent"><img src=/gwf-thesis/images/gwf-logo.png alt="ACL Logo" style="margin-right:0;height:54px;padding:6px;width:auto;margin-top:-2px;max-width:100%;vertical-align:middle;border:0;box-sizing:border-box;color:#0072bc;line-height:54px;font-weight:700;cursor:pointer;font-family:open sans,helvetica neue,Helvetica,Arial,sans-serif;font-size:16px;-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%"></a>
+<a href=/gwf-thesis/ style="text-decoration:none;color:#222!important;display:inline-block;font-size:16px;line-height:54px;font-weight:700;outline-offset:-4px!important;padding:0 6px;margin:0 -6px;background:0 0;box-sizing:border-box;cursor:pointer;font-family:open sans,helvetica neue,Helvetica,Arial,sans-serif;-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%;padding-left:4px">Global Water Futures</a></div></header><div id=main-container class=container><main aria-role=main><h2 id=title>Twenty More Years of Computational Linguistics</h2><p class="lead text-muted">by Aravind Joshi</p><hr><p class="font-weight-light font-italic text-muted">December 7, 2002</p><p>The title can be read in two ways. Either I should comment on the past twenty
+years of ACL (which coincide with the period between ACL 1982 held at Penn and
+ACL 2002 also held at Penn) or twenty more years from ACL 2002. As you will see
+many of my comments will be relevant to both these interpretations.</p><p>How did I get into computational linguistics (CL)? I did not really get into
+it. It sort of happened to me, much like Voltaire realizing one day that he was
+indeed writing prose. This is simply due to the fact that I started doing what
+is now called CL (or natural language processing) well before there was such a
+recognized field or a professional society with that name. As a matter of fact
+for the first couple of years of ACL (until about early 64) I did not officially
+belong to ACL. This was not because I disliked something about ACL or the people
+connected with it. Far from it. I knew the people very well and respected
+them. In retrospect, I am sure part of my reason for not rushing into it was the
+initial name of the current ACL. More importantly, I guess I was not sure myself
+that what I was doing was the same as the proclaimed goals of the organization
+at the start. I was also not sure that what I was doing at that time was either
+part of linguistics or part of computer science, or combination of the two, and
+perhaps, therefore, not needing any special name. Of course, once I joined ACL I
+threw myself into it in every possible way. However, I believe my initial
+experience described above may reflect in some way in my remarks below.</p><p>CL from the very beginning was always rooted in some applications. In my own
+experience, the very first project I worked on (1958-59), directed by Zellig
+Harris, had to do with analyses of scientific papers (in biomedical domain,
+strangely enough) with a view to automatically produce abstracts. Little did
+anyone working on the project realize how hard the task would be, even the first
+step of doing the so-called shallow parsing (as it is called at present) was
+very hard. Although the task was well executed (by the use finite state
+transducers, the first such application as far as I know) the problem of scaling
+up was already evident, given the status of the hardware at that time. At this
+point many computational linguists (including me, of course) turned to more
+theoretical work, hoping to find a way for attacking the scaling problem. During
+the early 60&rsquo;s to almost the mid 80&rsquo;s CL research was flourishing together with
+highly productive linguistic research during this period. There was good
+interaction between computational linguists and linguists, although most of the
+linguists thought, during this period, that they have more to say to the
+computational linguists than the other way round. During this period a few
+computational linguists (and I certainly include myself in this group) believed
+that CL has something new to say to linguists. In other words, the computational
+paradigm was not just concerned with implementing the then existing linguistic
+theories. However, it was only in the late 80&rsquo;s and early 90&rsquo;s there was a real
+blossoming of the computational paradigm as a way of doing linguistics
+itself. Many linguists began to be more and more open to CL. Now from the late
+90&rsquo;s up to the present, as we all can see, CL is really flourishing. Linguists
+are even more open to CL than before. However, curiously enough, many
+computational linguists are moving away from linguistics. This is mostly due to
+the enormous success of statistical and machine learning techniques applied to
+corpora, annotated with very little linguistic information or, especially,
+unlabeled data. So we have a strange situation now. Just when linguists are
+seriously getting interested in CL, CL seems to be turning away from
+linguistics. However, I believe this situation is very likely to change again,
+as more and more richly annotated corpora will be created (for example, with
+predicate argument and adjunct information, word sense information, discourse
+annotations for connectives and their argument structure, dialogue structures,
+among others). These efforts necessarily involve more and more linguistic
+information. Statistical and machine learning techniques will be developed for
+these richly annotated corpora, integrating structural and statistical
+information. So in the next two decades we will see CL and linguists coming
+close to each other, with CL affecting the very methodology of linguistics (also
+psycholinguistics and language aspects of cognitive neuroscience) and not just
+providing the tools &ndash; a dream of many of us for a long time.</p><p>&mdash; Aravind Joshi</p></main></div><footer class="bg-gradient-light py-2 py-xl-3 mt-3 mt-md-4 mt-xl-5"><div class=container><p class="text-muted small px-1">Global Water Futures Thesis!</p></div></footer><script src=https://code.jquery.com/jquery-3.3.1.slim.min.js integrity=sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js integrity=sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut crossorigin=anonymous></script><script src=https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js integrity=sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k crossorigin=anonymous></script><script>$(function(){$('[data-toggle="tooltip"]').tooltip();if($("#toggle-all-abstracts")){$("#toggle-all-abstracts").click(function(){var target=$("#toggle-all-abstracts");target.attr("disabled",true);if(target.attr("data-toggle-state")=="hide"){$(".abstract-collapse").collapse('show');target.attr("data-toggle-state","show");}else{$(".abstract-collapse").collapse('hide');target.attr("data-toggle-state","hide");}
+target.attr("disabled",false);});$("#toggle-all-abstracts").attr("disabled",false);}})</script></body></html>

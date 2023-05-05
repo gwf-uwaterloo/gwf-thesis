@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Higgins-2022-Phosphorus">
+    <titleInfo>
+        <title>Phosphorus Responses to Soil Moisture in Southern Ontario Agricultural Soil</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Stephanie</namePart>
+        <namePart type="family">Higgins</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Higgins-2022-Phosphorus</identifier>
+    <identifier type="doi">10012/18192</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G22-1001</url>
+    </location>
+    <part>
+        <date>2022</date>
+    </part>
+</mods>
+<mods ID="Chegoonian-2022-Remote">
+    <titleInfo>
+        <title>Remote sensing of chlorophyll-a in small inland waters</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Amir</namePart>
+        <namePart type="given">Masoud</namePart>
+        <namePart type="family">Chegoonian</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Chegoonian-2022-Remote</identifier>
+    <identifier type="doi">10012/17981</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G22-1002</url>
+    </location>
+    <part>
+        <date>2022</date>
+    </part>
+</mods>
+</modsCollection>

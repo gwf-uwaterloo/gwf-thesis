@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Samson-2019-The">
+    <titleInfo>
+        <title>The Urban Metabolism of the Greater Toronto Area: A Study of Nitrogen and Phosphorus Fluxes across the Urban, Suburban, and Rural Continuum</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Melani-Ivy</namePart>
+        <namePart type="family">Samson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>It has been predicted that approximately 65% of the developing world and 85% of the developed world will be living in cities by 2050. Toronto, the largest city in Canada and the fourth largest in North America, is expected to double in population in the next 50 years. Although such rapid urbanization can lead to enormous social, economic, and environmental change, little is understood about how population growth in Toronto and the “Golden Horseshoe” region around Lake Ontario will impact the ecological systems of Southern Ontario. In our study, we are particularly interested in the ways in which increasing population densities in the Greater Toronto Area are impacting nutrient flows across Southern Ontario’s urban/rural continuum and how changing nutrient dynamics may lead to increasingly impaired water quality in Lake Ontario and beyond. In this work, we utilize a mass balance approach to quantify the flow of nutrients through urban, suburban, and agricultural areas of the Greater Toronto Area. A wide range of factors are considered, including human behaviour, domestic animals, stormwater management, and wastewater treatment processes. The present results suggest that any study of urban metabolism must take into account not only nutrient flows within urban boundaries, but must also identify externalities of urban development associated with a range of processes, from global trade to regional waste management.</abstract>
+    <identifier type="citekey">Samson-2019-The</identifier>
+    <identifier type="doi">10012/14658</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-1003</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+</modsCollection>

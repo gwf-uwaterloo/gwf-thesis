@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Wiebe-2020-The">
+    <titleInfo>
+        <title>The influences of spatially variable rainfall and localized infiltration on groundwater recharge in a water management context</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Andrew</namePart>
+        <namePart type="given">James</namePart>
+        <namePart type="family">Wiebe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Wiebe-2020-The</identifier>
+    <identifier type="doi">10012/16476</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-1001</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="Markelov-2020-Modelling">
+    <titleInfo>
+        <title>Modelling Biogeochemical Cycles Across Scales: From Whole-Lake Phosphorus Dynamics to Microbial Reaction Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Igor</namePart>
+        <namePart type="family">Markelov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Markelov-2020-Modelling</identifier>
+    <identifier type="doi">10012/15513</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-1002</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="VanStaden-2019-Phosphorus">
+    <titleInfo>
+        <title>Phosphorus Legacies and Water Quality Risks: A Vulnerability-Based Framework in Southern Ontario</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tamara</namePart>
+        <namePart type="family">Van Staden</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Excess phosphorus (P) loading increases the frequency of harmful algal blooms (HABs), posing severe threats to drinking water security and aquatic ecosystems. Efforts to reduce the inputs of P to Canadian agricultural soils started in the late 1970s-early 1980s, and were initially successful, but surface water P loading became persistent again in the 2000s. HABs were a problem in the southern Laurentian Great Lakes (LGL) before the initial nutrient mitigation efforts, and the re-emergence of HABs in Lake Erie in the 2000s was in part a result of legacy P that had accumulated in soils and groundwater in agricultural watersheds. Legacy P exists as a result of historical inputs of P, typically fertilizer used in excess of crop needs. Consequentially, even after reducing P inputs, legacy P continues to be exported from soils after several decades. In Chapter 2, a large-scale mass balance was conducted for the Ontario watersheds to locate and quantify agricultural and other anthropogenic P inputs from 1961 to 2016, utilizing existing datasets as well as historical reconstructions of P inputs to the landscape. This scale of P mass-balance has not been completed before in Ontario. The mass balance model was implemented into a Geographical Information System (GIS) platform to delineate potential areas with legacy P accumulation and depletion within the landscape. These maps identified areas with high P inputs and large potential stores of legacy P. Historically, southwestern Ontario has had the densest agriculture and populated areas in Ontario and has had high P inputs over time. County-scale trends such as shifts to intensive livestock or crop-based agriculture, or increasing urbanization were also identified. In Chapter 3, the fate and transport of P and the possible development of P legacies was explored in the context of risk. P export is influenced by environmental conditions in soil, as such, there is spatial variance in the likelihood that P will runoff or accumulate in soils. The environmental conditions may therefore be used to represent the vulnerability of the system and the risk to either lose or accumulate P. The cumulative agricultural P surplus map was used in conjunction with vulnerability maps to construct soil P risk maps. Different vulnerability models were explored, and ultimately soil erosion potential maps were used to identify vulnerable areas with a high risk of P losses to surface water and areas with a high risk of P accumulation in soil. It was determined that there was a higher risk of P accumulation in soil along the coast of Lake Erie, and it is possible that P legacies exist in these areas. The results inform nutrient management and abatement strategies and the adaptive implementation of conservation practices.</abstract>
+    <identifier type="citekey">Van Staden-2019-Phosphorus</identifier>
+    <identifier type="doi">10012/15357</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-3001</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+</modsCollection>

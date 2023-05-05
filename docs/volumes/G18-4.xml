@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Chowdhury-2018-Biogeochemical">
+    <titleInfo>
+        <title>Biogeochemical Signatures of the Great Lakes Watersheds</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Qualbe</namePart>
+        <namePart type="given">Shadman</namePart>
+        <namePart type="family">Chowdhury</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Chowdhury-2018-Biogeochemical</identifier>
+    <identifier type="doi">10012/13624</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G18-4001</url>
+    </location>
+    <part>
+        <date>2018</date>
+    </part>
+</mods>
+</modsCollection>

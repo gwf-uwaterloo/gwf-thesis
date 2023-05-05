@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Peters-2021-Fate">
+    <titleInfo>
+        <title>Fate and Transport of Synthetic DNA in Surface Water</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jacqueline</namePart>
+        <namePart type="family">Peters</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Peters-2021-Fate</identifier>
+    <identifier type="doi">10012/17575</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-3001</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+<mods ID="Krogstad-2021-Impact">
+    <titleInfo>
+        <title>Impact of Winter Soil Processes on Nutrient Leaching in Cold Region Agroecosystems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Konrad</namePart>
+        <namePart type="family">Krogstad</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Krogstad-2021-Impact</identifier>
+    <identifier type="doi">10012/16827</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-3002</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+<mods ID="Wicke-2021-Characterizing">
+    <titleInfo>
+        <title>Characterizing Aspects of Groundwater Flow in Discontinuous Permafrost Terrain, Within the Central Mackenzie Valley, NWT</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Andrew</namePart>
+        <namePart type="family">Wicke</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Wicke-2021-Characterizing</identifier>
+    <identifier type="doi">10012/17025</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-3003</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

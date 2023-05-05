@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Boag-2020-Variation">
+    <titleInfo>
+        <title>Variation in fish fatty acid concentrations among lakes in the Dehcho region of the Northwest Territories</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tara</namePart>
+        <namePart type="family">Boag</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Biology, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Boag-2020-Variation</identifier>
+    <identifier type="doi">10012/16594</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-3001</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="Quinn-Austin-2020-Movement">
+    <titleInfo>
+        <title>Movement of mature and early life stages of the Grand River walleye (Sander vitreus) population in Lake Erie’s eastern basin</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hillary</namePart>
+        <namePart type="family">Quinn-Austin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Biology, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Quinn-Austin-2020-Movement</identifier>
+    <identifier type="doi">10012/16257</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-3002</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="Royall-2020-Evaluating">
+    <titleInfo>
+        <title>Evaluating the development and use of a rapid wetland assessment tool (ABWRET-A) in policy implementation in Alberta, Canada</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Owen</namePart>
+        <namePart type="family">Royall</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Biology, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Royall-2020-Evaluating</identifier>
+    <identifier type="doi">10012/15980</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-3003</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

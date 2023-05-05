@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Brown-2019-Application">
+    <titleInfo>
+        <title>Application of a Hydrological Model for Predicting River Ice Breakup</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Genevieve</namePart>
+        <namePart type="family">Brown</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Brown-2019-Application</identifier>
+    <identifier type="doi">10012/15285</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-1001</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+<mods ID="Byrnes-2019-Typologies">
+    <titleInfo>
+        <title>Typologies of Nitrogen Surplus Across Continental US: Shifting Hotspots and Dominant Controls</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Danyka</namePart>
+        <namePart type="given">Kimberly</namePart>
+        <namePart type="family">Byrnes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Byrnes-2019-Typologies</identifier>
+    <identifier type="doi">10012/15336</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-1002</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+<mods ID="Samson-2019-The">
+    <titleInfo>
+        <title>The Urban Metabolism of the Greater Toronto Area: A Study of Nitrogen and Phosphorus Fluxes across the Urban, Suburban, and Rural Continuum</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Melani-Ivy</namePart>
+        <namePart type="family">Samson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Samson-2019-The</identifier>
+    <identifier type="doi">10012/14658</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-1003</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+<mods ID="Werenka-2019-Recoupling">
+    <titleInfo>
+        <title>Recoupling the Livestock Nutrient Economy: A Path forward for Water Quality Improvement</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Alexander</namePart>
+        <namePart type="family">Werenka</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Werenka-2019-Recoupling</identifier>
+    <identifier type="doi">https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/MFQP9L</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-1004</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+</modsCollection>

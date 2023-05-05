@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Carlow-2021-The">
+    <titleInfo>
+        <title>The use of a filter product to remove phosphorus from surface runoff in agricultural fields</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ryan</namePart>
+        <namePart type="family">Carlow</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Carlow-2021-The</identifier>
+    <identifier type="doi">10012/17569</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-1001</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+<mods ID="Tian-2021-Identifying">
+    <titleInfo>
+        <title>Identifying Prioritized Areas for Grassed Waterways Implementation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yunhong</namePart>
+        <namePart type="family">Tian</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Tian-2021-Identifying</identifier>
+    <identifier type="doi">10012/17638</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-1002</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+<mods ID="Zhang-2021-A">
+    <titleInfo>
+        <title>A Comparative Study on Agent Based Decision Making Models: A Proof of Concept Focused on Farmers’ Decisions Regarding Best Management Practices</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Duo</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Zhang-2021-A</identifier>
+    <identifier type="doi">10012/16694</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-1003</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

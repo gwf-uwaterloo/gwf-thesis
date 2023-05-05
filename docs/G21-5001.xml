@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Ho-2021-Towards">
+    <titleInfo>
+        <title>Towards democratizing water quality monitoring processes for the lower Grand River and nearshore Lake Erie</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Elaine</namePart>
+        <namePart type="family">Ho</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>School of Environment, Resources and Sustainability, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Freshwater quality issues are among the most pressing challenges of our time. Such issues are increasingly complex and tend to recur when we fail to acknowledge the interacting stressors that influence them. One example of a recurring issue is the prolific growth of Cladophora (a benthic nuisance alga) in the eastern basin of Lake Erie. Water managers thought they had corrected the issue by controlling nutrient loading from the 1970s to the1990s; however, the Cladophora issue returned in the mid-2000s and has persisted due to new factors changing the way the ecosystem works. The Grand River in Southern Ontario remains Lake Erie’s largest contributor of nutrients in Canada, and so is the focus of current management efforts. Problems like this, which are caused by several interacting factors in a given space over time, are known as cumulative effects. Much of the literature on cumulative effects and/or water quality monitoring in this dissertation reflects conventional practice focused on the perspectives of water scientists and managers; however, this dissertation does not replicate this approach. Instead, the social-ecological context surrounding freshwater quality monitoring in the study area is critically considered by incorporating diverse community perspectives alongside conventional perspectives. In the study area, Indigenous communities have treaty rights to participate in the governance of the watershed (which sits entirely within the Haldimand Tract), but these communities – like others – have not been engaged as partners in water quality monitoring or management. One reason for this is that community and Indigenous knowledges often come in different formats than conventional scientists are used to dealing with, and so these forms of community ‘data’ are not easily integrated with conventional data. As Canada moves towards a mandate for reconciliation with Indigenous communities, ignoring the challenge of bringing together different ‘ways of knowing’ is no longer acceptable. Inspired by the Cladophora challenge and the need to diversify monitoring practice, this research strives to answer the following question: How can cumulative effects water quality monitoring be enabled and involve diverse perspectives in the Grand River-Lake Erie interface? This research encourages the democratization of water quality monitoring to ensure more diverse persons can participate in the gathering of water quality information and that their diverse ways of knowing may supplement conventional science in management and decision-making. In other words, this dissertation explores approaches for diversifying perspectives that contribute to our understanding of freshwater quality in the study area. A multimethod approach to research was undertaken to explore what may be done differently. Methods used in this research include a systematic review of monitoring programs (Chapter 3), key informant interviews (Chapter 4), in-person and online workshops (Chapters 5, 7, and 8), and artistic research (Chapter 6) – a new approach in the context of water quality monitoring and management in the study area. First, the systematic review of monitoring programs highlighted aspects of current monitoring to maintain and improve upon. Then, key informant interviews raised 106 strengths, weaknesses, opportunities, and threats, as well as 51 recommendations. I also discuss a culture shift towards more holistic thinking and more collaborative water governance, which study participants deemed necessary to develop a strong and resilient cumulative effects monitoring program. To enable this culture shift, two examples of artistic research were implemented to demonstrate potential approaches for diversifying practice. Following, eight recommendations are provided for implementing cumulative effects monitoring in the study area. The multimethod approach results in a framework for collaboration (i.e., organizational structure and process framework) to enable more diverse and collaborative water quality monitoring in the study area that contributes to our ability to understand and address cumulative effects. The proposed framework is community-led (whether catalyzed by community members or invited by government) and incorporates equal weighting of Indigenous and western priorities and monitoring indicators – a unique and potentially transformative contribution to literature and practice. The use of artistic research as an equitable means of community involvement is also new in the study area. Finally, because involving diverse persons to contribute their perspectives demanded the development of different approaches than currently practiced, the research process and its process-related lessons and recommendations may contribute to raising the standard for future research and practice in water quality monitoring. This research also has implications that extend beyond strengthening the practice of water quality monitoring. The core outcomes of the later chapters – e.g., recommendations towards collaborative and community-based monitoring processes coupled with a culture shift regarding the creation and application of knowledge – would, if practiced, support at least three broader transformations in society: a formal sharing of responsibility over natural resources, increased collaboration that is mindful of diversity, and systemic changes in support of Canadian-Indigenous reconciliation. While many aspects of the future scenarios described in the concluding chapter are likely a generation away (or longer) and are far beyond the scope of any one thesis project, my hope is that possible actions catalyzed by this research and other efforts like it will collectively move society in a different, more equitable direction.</abstract>
+    <identifier type="citekey">Ho-2021-Towards</identifier>
+    <identifier type="doi">10012/17604</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-5001</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Judge-2021-Local">
+    <titleInfo>
+        <title>Local Traditional/Country Food Processing and Food Sovereignty: Investigating the Political Challenges for an Indigenous Self-government to Self-Determine and Develop its Local Food System</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Connor</namePart>
+        <namePart type="family">Judge</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>School of Public Health and Health Systems, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Judge-2021-Local</identifier>
+    <identifier type="doi">10012/17091</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-7001</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

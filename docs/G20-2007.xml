@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="MirnaslBonab-2020-The">
+    <titleInfo>
+        <title>The Impact of Spatial Decision Variables Influencing Crop Rotation on Phosphorus Load Reduction: A Hydrologic Modeling Approach</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Seyedeh</namePart>
+        <namePart type="given">Nayyer</namePart>
+        <namePart type="family">Mirnasl Bonab</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Non-point source anthropogenic nutrient loading through intensive farming practices is a global source of water quality degradation by creating harmful algal blooms in aquatic ecosystems. Phosphorus, as the key nutrient in this process, has received much attention in different studies as well as conservation programs aimed at mitigating the transfer of polluting nutrients to freshwater resources. Central to conservation initiatives developed to maintain and improve water quality is the application of the Conservation Practices (CPs), introduced widely as practical, cost-effective measures with overall positive impacts on the rate of nutrient load reductions from farmlands to freshwater resources. Crop rotation is one of the field-based BMPs applied to maintain the overall soil fertility and preventing the displacement of the topsoil layers by surface water runoff across the agricultural watersheds. The underlying concept in the application of this particular BMP is a deviation from the monoculture cropping system by integrating different crops into the farming process. This way, cultivated soils do not lose key nutrients, which are necessary for crop growth, and the overall crop productivity remains unchanged in the landscape. The successful implementation of crop rotation highly depends on planning the rotation process, which is influenced by a variety of environmental, structural, and managerial factors, including the size of farmlands, climate variability, crop type, level of implementation, soil type, and market prices among other factors. Each of these decision variables is subject to variation depending upon the variability of other factors, the complexity of watersheds upon which this BMP is implemented, and the overall objectives of the BMP adoption. This study aims to investigate two of these decision variables and their potential impacts on phosphorus load reductions through a scenario-based hydrologic modeling framework developed to iv assess the post-crop rotation water quality improvements across the Medway Creek Watershed, situated in the Lake Erie Basin in Ontario, Canada. These variables are the spatial pattern of crop rotation and its level of implementation, assessed at the watershed scale through the modifications made to the delineation of the basic Hydrologic Response Units (HRUs) in the modeling process as well as certain assumptions in the management schedules, and decision rules required for the integration of crop rotation into the proposed modeling framework and optimal placement of this non-structural BMP across the watershed. The main modeling package utilized in this study is the Soil and Water Assessment Tool (SWAT), used in conjunction with the ArcGIS and IBMSPSS tools to allow for spatial assessment and statistical analyses of the proposed hydrologic modeling results, respectively. Following in-depth statistical analyses of the scenarios, the results of the study elicit the critical role of both factors by proposing optimal ranges of application on the watershed under study. Accordingly, to achieve optimal implementation results compared to the baseline scenario, which has the zero rate of implementation, conservation initiatives in the watershed are encouraged to consider the targeted placement of crop rotation on half of the lands under cultivation. Despite, having a statistically significant impact on water quality compared to the baseline scenario, the random distribution scenario is less effective than the targeted scenario in mitigation of total phosphorus load. Similarly, compared to the medium rate of implementation the targeted placement in a higher proportion of the cultivated areas did not lead to statistically significant results but may be considered depending upon the purpose and scope of implementation.</abstract>
+    <identifier type="citekey">Mirnasl Bonab-2020-The</identifier>
+    <identifier type="doi">10012/15471</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2007</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

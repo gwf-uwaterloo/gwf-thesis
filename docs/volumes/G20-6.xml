@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Vivekananthan-2020-Runoff">
+    <titleInfo>
+        <title>Runoff Response and Nutrient Loading in Vertisolic Clay Soils of Near-Level Artificially Drained Southern Manitoban Landscapes</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kokulan</namePart>
+        <namePart type="family">Vivekananthan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Vivekananthan-2020-Runoff</identifier>
+    <identifier type="doi">10012/15682</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-6001</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

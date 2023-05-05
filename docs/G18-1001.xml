@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Mollaee-2018-Estimation">
+    <titleInfo>
+        <title>Estimation of Phytoplankton Chlorophyll-a Concentration in the Western Basin of Lake Erie Using Sentinel-2 and Sentinel-3 Data</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Somayeh</namePart>
+        <namePart type="family">Mollaee</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Worldwide phenomena called algae bloom has been recently a serious matter for inland water bodies. Temporal and spatial variability of the bloom makes it di cult to use in-situ monitoring of the lakes. This study aimed to evaluate the potential of Sentinel-3 Ocean and Land Colour Instrument (OLCI) and Sentinel-2 Multispectral Instrument (MSI) data for monitoring algal blooms in Lake Erie. Chlorophyll-a (Chl-a) related products were tested using NOAA-Great Lakes Chl-a monitoring data over summer 2016 and 2017. Thematic water processor, fluorescence line height/maximum chlorophyll index (MCI) and S2 MCI, plug-in SNAP were assessed for their ability to estimate Chl-a concentration. We processed both Top of the Atmosphere (TOA) reflectance and radiance data. Results show that while FLH algorithms are limited to lakes with Chl-a \textless 8 mg m-3, MCI has the potential to be used effectively to monitor Chl-a concentration over eutrophic lakes. Sentinel-3 MCI is suggested for Chl-a \textgreater 20 mg m-3 and Sentinel-2 MCI for Chla \textgreater 8 mg m-3. The different Chl-a range limitation for the MCI products can be due to the different location of the maximum peak bands, 705 and 709 for MSI and OLCI sensors respectively. TOA radiances showed a signi cantly better correlation with in situ data compared to TOA reflectances which may be related to the poor pixel identi cation during the process of pixel flagging affected by the complexity of Case-2 water. Our fi nding suggests that Sentinel-2 MCI achieves better performance for Chl-a retrieval (R2 = 0.90). However, the FLH algorithms outperformed showing negative reflectance due to the shift of reflectance peak to longer wavelengths along with increasing Chl-a values. Although the algorithms show moderate performance for estimating Chl-a concentration; this study demonstrated that the new satellite sensors, OLCI and MSI, can play a signi ficant role in the monitoring of algae blooms for Lake Erie.</abstract>
+    <identifier type="citekey">Mollaee-2018-Estimation</identifier>
+    <identifier type="doi">10012/13456</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G18-1001</url>
+    </location>
+    <part>
+        <date>2018</date>
+    </part>
+</mods>
+</modsCollection>

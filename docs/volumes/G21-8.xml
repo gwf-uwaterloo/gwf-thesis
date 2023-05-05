@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Jasiak-2021-Spatiotemporal">
+    <titleInfo>
+        <title>Spatiotemporal patterns of arsenic, antimony, and lead deposition in a sub-arctic gold mining region of Canada</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Izabela</namePart>
+        <namePart type="family">Jasiak</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Biology, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Jasiak-2021-Spatiotemporal</identifier>
+    <identifier type="doi">10012/16725</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-8001</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+<mods ID="Savage-2021-Application">
+    <titleInfo>
+        <title>Application of artificial substrate samplers to assess enrichment of metals of concern by river floodwaters to lakes across the Peace-Athabasca Delta</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Cory</namePart>
+        <namePart type="family">Savage</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Biology, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Savage-2021-Application</identifier>
+    <identifier type="doi">10012/16999</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-8002</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

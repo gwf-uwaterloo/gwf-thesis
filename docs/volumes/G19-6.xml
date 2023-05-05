@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Fung-2019-Mercury">
+    <titleInfo>
+        <title>Mercury Exposure Analyses Amongst Dene and Métis Communities of the Northwest Territories</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Leicester</namePart>
+        <namePart type="family">Fung</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>School of Public Health and Health Systems, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Fung-2019-Mercury</identifier>
+    <identifier type="doi">10012/14333</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-6001</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+</modsCollection>

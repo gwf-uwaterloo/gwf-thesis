@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Savage-2021-Application">
+    <titleInfo>
+        <title>Application of artificial substrate samplers to assess enrichment of metals of concern by river floodwaters to lakes across the Peace-Athabasca Delta</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Cory</namePart>
+        <namePart type="family">Savage</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Biology, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Potential for downstream delivery of contaminants via Athabasca River floodwaters to lakes of the Peace-Athabasca Delta (PAD), northeastern Alberta (58.6°N, 111.8°W), has raised local to international concern. Prior investigations have shown metals concentrations in sediment of lakes supplied by river floodwaters are not enriched above pre-industrial baselines. Additional real-time aquatic ecosystem monitoring approaches are needed to complement sediment-based techniques where time intervals captured are uncertain. Here, we quantify enrichment of eight metals (Be, Cd, Cr, Cu, Ni, Pb, V, Zn) at the base of aquatic food webs, relative to sediment-based pre-industrial baselines, via analysis of biofilm-sediment mixtures accrued on artificial substrate samplers deployed during summers of 2017 and 2018 in \textgreater40 lakes spanning hydrological gradients of the PAD. Widespread flooding in spring 2018 allows for assessment of metals enrichment by Athabasca River floodwaters. A main finding is that river floodwaters are not implicated as a pathway of metals enrichment to biofilm-sediment mixtures in PAD lakes from upstream sources. MANOVA tests revealed no significant difference in residual concentrations of all eight metals in lakes that did not flood versus lakes that flooded during one or both study years. Also, no enrichment was detected for concentrations of biologically inert metals (Be, Cr, Pb), and those related to oil-sands development (Ni, V). Enrichment of Cd, Cu, and Zn at non-flooded lakes, however, suggests uptake of biologically active metals complicates comparisons of organic-rich biofilm-sediment mixtures to sediment-derived baselines for these metals. Results lend confidence that this novel approach could be adopted for lake monitoring within the Wood Buffalo National Park Action Plan.</abstract>
+    <identifier type="citekey">Savage-2021-Application</identifier>
+    <identifier type="doi">10012/16999</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-8002</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Cui-2021-Development">
+    <titleInfo>
+        <title>Development of the integration of microwave technology with microfluidic systems for sensing and heating</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Weijia</namePart>
+        <namePart type="family">Cui</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Mechanical and Mechatronics Engineering, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Microfluidics-based Lab-on-a-Chip platforms have drawn ever-increasing attention from both academy and industry due to their advantages for dealing with small volume of fluids and for integrating multiple processes into one platform. These advantages are the direct benefits of miniaturization which also brings challenges, especially in sensing and heating. The challenges are augmented in the context of droplet microfluidics because of their fast motion, curved interface and reduced volume (i.e. pico- to nano-liter). Droplet microfluidics utilizes water-in-oil or oil-in-water droplets that can be generated in microchannel networks at kHz rates as mobilized test tubes. It presents tremendous potential to serve as a tool for high throughput analysis that are in high demand in many areas such as material synthesis, life science research, pharmaceutical industry and environmental monitoring. Many applications require temperature control and both fundamental and applied research need droplet sensing to assist in understanding droplet motion and developing techniques for manipulating droplets. Microwave sensing offers unique advantages by differentiating materials based on their electrical properties at high speeds. Moreover, it enables simultaneous heating of individual droplets. Previous studies demonstrated the potential of microwave resonator for point of care (POC) applications and for simultaneous sensing and heating. However, neither of them has yet be fully realized. In addition to the technical challenges such as the use of bulky and expensive vector network analyzer (VNA) for sensing that limits the potential for POC applications, fundamental understanding of microwave heating and its coupling with droplet microfluidics is lacking. This thesis is designed to fill the gap with the ultimate goal of enhancing droplet microfluidics as an enabling tool for a wide range of applications by realizing the full potential of microwave sensing and heating. With the goal of maximizing the capacity of droplet microfluidics serving as an enabling tool for many applications, this thesis focuses on exploring microwave sensing and heating for droplet microfluidics. The thesis started with the investigation of the coupling between microwave heating and droplet motion to shine light on the mechanism of microwave heating induced droplet mixing. Followed the improved understanding of microwave heating, on-demand droplet generation via microwave heating was explored and demonstrated. To realize simultaneous sensing and heating which is powerful for droplet microfluidics, two resonators need to be considered and the primary concern for two resonators in a single microfluidic chip is the crosstalk between the two resonators. The third chapter was designed to investigate the fundamental challenges of integrating two resonators within a typical microfluidic device footprint. Finally, a POC application of microwave sensing is demonstrated for real time detecting lead in drinking water system which has been one of the crisis raised recently.</abstract>
+    <identifier type="citekey">Cui-2021-Development</identifier>
+    <identifier type="doi">10012/16852</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-6001</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

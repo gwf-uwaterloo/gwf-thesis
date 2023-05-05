@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Thompson-2021-Developing">
+    <titleInfo>
+        <title>Developing Parameter Constraints for Radar-based SWE Retrievals</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Aaron</namePart>
+        <namePart type="family">Thompson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Terrestrial snow is an important freshwater reservoir with significant influence on the climate and energy balance. It exhibits natural spatiotemporal variability which has been enhanced by climate change, thus it is important to monitor on a large scale. Active microwave, or radar remote sensing has shown frequency-dependent promise in this regard, however, interpretation remains a challenge. The aim of this thesis was to develop constraints for radar based SWE retrievals which characterize and limit uncertainty with a focus on the underlying physical processes, snowpack stratigraphy, the influence of vegetation, and effects of background scattering. The University of Waterloo Scatterometer (UWScat) was used to make measurements at 9.6 and 17.2 GHz of snow and bare ground in a series of field-based campaigns in Maryhill and Englehart, ON, Grand Mesa, CO (NASA SnowEx campaign, year 1), and Trail Valley Creek, NT. Additional measurements from Tobermory, ON, and Churchill, MB (Canadian Snow and Ice Experiment) were included. The Microwave Emission Model for Layered Snowpacks, Version 3, adapted for backscattering (MEMLS3&amp;a) was used to explore snowpack parameterization and SWE retrieval and the Freeman-Durden three component decomposition (FD3c) was used to leverage the polarimetric response. Physical processes in the snow accumulation environment demonstrated influence on regional snowpack parameterization and constraints in a SWE retrieval context with a single-layer snowpack parameterization for Maryhill, ON and a two-layer snowpack parameterization for Englehart, ON resulting in a retrieval RMSE of 21.9 mm SWE and 24.6 mm SWE, respectively. Use of in situ snow depths improved RMSE to 12.0 mm SWE and 10.9 mm SWE, while accounting for soil scattering effects further improved RMSE by up to 6.3 mm SWE. At sites with vegetation and ice lenses, RMSE improved from 60.4 mm SWE to 21.1 mm SWE when in situ snow depths were used. These results compare favorably with the common accuracy requirement of RMSE łeq 30 mm and underscore the importance of understanding the driving physical processes in a snow accumulation environment and the utility of their regional manifestation in a SWE retrieval context. A relationship between wind slab thickness and the double-bounce component of the FD3c in a tundra snowpack was introduced for incidence angles \geq 46° and wind slab thickness \geq 19 cm. Estimates of wind slab thickness and SWE resulted in an RMSE of 6.0 cm and 5.5 mm, respectively. The increased double-bounce scattering was associated with path length increase within a growing wind slab layer. Signal attenuation in a sub-canopy SWE retrieval was also explored. The volume scattering component of the FD3c yielded similar performance to forest fraction in the retrieval with several distinct advantages including a real-time description of forest condition, accounting for canopy geometry without ancillary information, and providing coincident information on forest canopy in remote locations. Overall, this work demonstrated how physical processes can manifest regional outcomes, it quantified effects of natural inclusions and background scattering on SWE retrievals, it provided a means to constrain wind slab thickness in a tundra environment, and it improved characterization of coniferous forest in a sub-canopy SWE retrieval context. Future work should focus on identifying ice and vegetation conditions prior to SWE retrieval, testing the spatiotemporal validity of the methods developed herein, and finally, improving the integration of snowpack attenuation within retrieval efforts.</abstract>
+    <identifier type="citekey">Thompson-2021-Developing</identifier>
+    <identifier type="doi">10012/17572</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-4001</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

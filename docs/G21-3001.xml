@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Peters-2021-Fate">
+    <titleInfo>
+        <title>Fate and Transport of Synthetic DNA in Surface Water</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jacqueline</namePart>
+        <namePart type="family">Peters</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Unlike conventional salt or dye tracers, artificial/synthetic DNA hydrologic tracers are essentially non-toxic and several can be used simultaneously. These features have implications for DNA to be used to better understand environmental processes and map hydrological pathways in complex environments, such as watersheds. Synthetic DNA tracers also have the potential to help with a better understanding of the behaviour of environmental DNA (eDNA) and its application in biomonitoring. Some components of eDNA exist as free/naked DNA not bound to other substances or protected by cellular material. The goal of the current research was to assess the fate and transport of naked DNA (short single stranded DNA sequences) in a small stream as a potential environmental tracer. As a proof-of-concept, two unique DNA tracers were released into an upstream location in Washington Creek (southern Ontario). After releasing the tracers, water samples were collected 100 m and 350 m downstream and breakthrough curves of tracer concentration were plotted over time. Both tracers behaved similarly with a mass recovery of 71% (T11) and 80% (T22) at the 100 m downstream sampling location and about 70% for both tracers at 350 m downstream. The downstream tracer peak arrival times were 15 – 16 min and 30 – 31 min at the 100 m and 350 m sampling sites, respectively, demonstrating that naked DNA injected into the stream can quickly travel downstream. This suggests that eDNA, in the naked form, may survive considerable distances downstream from the source and has implications for biomonitoring strategies. Additional unique DNA tracers were designed and optimized for future experiments. DNA tracers create many opportunities for applications in environmental sciences, especially if they can be combined with other substances to alter their environmental properties and fate (i.e., nanoparticles). DNA tracers can be attached to nanoparticles to protect DNA degradation in harsh environments or influence their zeta potential.</abstract>
+    <identifier type="citekey">Peters-2021-Fate</identifier>
+    <identifier type="doi">10012/17575</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-3001</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

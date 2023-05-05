@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Liu-2020-Checkered">
+    <titleInfo>
+        <title>Checkered Landscapes: Quantifying Dominant Control on Nitrogen Legacies and Time Lags along the River Continuum</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yuhe</namePart>
+        <namePart type="given">(Joy)</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Liu-2020-Checkered</identifier>
+    <identifier type="doi">10012/16144</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-4001</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="Dony-2020-A">
+    <titleInfo>
+        <title>A Random Forest in the Great Lakes: Exploring Nutrient Water Quality in the Laurentian Great Lakes Watersheds</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">John</namePart>
+        <namePart type="family">Dony</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Dony-2020-A</identifier>
+    <identifier type="doi">10012/16347</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-4002</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

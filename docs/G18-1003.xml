@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Guo-2018-Simulating">
+    <titleInfo>
+        <title>Simulating Farmer Adoption of Agricultural Best Management Practices in the Upper Medway Creek Subwatershed</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Liuyi</namePart>
+        <namePart type="family">Guo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>In the coupled human-environment system, humans play a central role in creating various environmental problems, and in turn, are impacted by these environmental consequences. In Canada, water quality degradation caused by agricultural activities has become a severe problem for a long time. It has been noted that the application of pesticides, manure and fertilizers have led to an increasing amount of chemicals and other pollutants in surface runoff which eventually converge into surface water bodies and result in water eutrophication. To maintain water quality and develop a sustainable agricultural system, Best Management Practices (BMPs) have been suggested. However, the high complexity of the agriculture system makes it difficult for policymakers and researchers to monitor and evaluate the performance of BMPs across large spatial scales and develop appropriate improvement strategies accordingly. Under these circumstances, agent-based models (ABM) stand out for their ability to deal with the complexities in the agri-environment system. To better understand the dynamics of farmer’s decision-making on BMP application under different socio-economic and environmental situations, an ABM has been developed to simulate the decision-making processes in the Upper Medway Creek subwatershed in this study. The ABM uses an optimizing decision-making structure that relies on choice by highest utility. In addition, the ABM integrates a weighted sum function to evaluate the influences of economic, environmental and social factors on farmers’ decision-making. Results from the model pre-test were compared to those obtained from a random generator to examine how does the developed ABM perform against the random generator. Then, a sensitivity analysis has been performed using the one-factor-at-a-time method to examine the impacts of different potential interventions, including government subsidies and educational activities, on farmers’ decision-making for certain BMP adoptions. The results demonstrated that the developed ABM is robust in simulating farmers’ decision-making on BMP application within the Upper Medway Creek subwatershed. According to the sensitivity analysis, providing subsidies and improving knowledge level of BMPs have positive effects on the implementations of certain BMPs in general. While comparing to improving knowledge levels of BMPs, providing subsidies makes greater contribution to motivating farmers to adopt BMPs. For each BMP, a subsidy rate, which indicates the proportion of implementation costs needs to be subsidized to effectively encourage the BMP adoption, has been suggested. The results of this study provide a better understanding of how different socio-economic conditions affect farmers’ decision-making on BMP adoptions and offer insights for policymakers to develop effective strategies incentivising farmers’ adoptions of BMPs and further preserving water quality in the Upper Medway Creek subwatershed.</abstract>
+    <identifier type="citekey">Guo-2018-Simulating</identifier>
+    <identifier type="doi">10012/14003</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G18-1003</url>
+    </location>
+    <part>
+        <date>2018</date>
+    </part>
+</mods>
+</modsCollection>

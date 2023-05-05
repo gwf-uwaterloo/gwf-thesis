@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Krogstad-2021-Impact">
+    <titleInfo>
+        <title>Impact of Winter Soil Processes on Nutrient Leaching in Cold Region Agroecosystems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Konrad</namePart>
+        <namePart type="family">Krogstad</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>High-latitude cold regions are warming more than twice as fast as the rest of the planet, with the greatest warming occurring during the winter. Warmer winters are associated with shorter periods of snow cover, resulting in more frequent and extensive soil freezing and thawing. Freeze-thaw cycles (FTC) influence soil chemical, biological, and physical properties and any changes to winter soil processes may impact carbon and nutrients export from affected soils, possibly altering soil health and nearby water quality. Changes to non-growing season climate affect soil biogeochemical processes and fluxes and understanding these changes is critical for predicting nutrient availability in cold region ecosystems and their impacts on downstream water quality. These impacts are relevant for agricultural soils and practices in cold regions as they are important in governing water flows and quality within agroecosystems. Agricultural systems are source areas for nutrient pollutants due to fertilizer use and have been the target of numerous management strategies. Sustainable agricultural practices have been increasingly employed to mitigate nutrient loss due to erosion, but nutrient export via surface runoff, subsurface leaching, and volatilization allows for continued high nutrient losses (Beach et al., 2018; King et al., 2017). Chapter 1 of thesis discusses the non-growing season climate changes altering winter soil processes and reviews the major nitrogen transformation processes leading to nitrogen losses in agricultural soils. In Chapter 2, I present a soil column experiment to assess the leaching of nutrients from fertilized agricultural soil during the non-growing season. Four soil columns were exposed to a non-growing season temperature and precipitation model and fertilizer amendments were made to two of the columns to determine the efficacy of fall-applied fertilizers and compared to other two unfertilized control columns. Leachates from the soil columns were collected and analyzed for cations and anions. The experiment results showed that a transition from a freeze period to a thaw period resulted in significant loss of chloride (Cl-), sulfate (SO42-) and nitrate (NO3-). Even with low NO3- concentrations in the applied artificial rainwater and fertilizer, high NO3- concentrations (~150 mg L-1) were observed in fertilized column leachates. Simple plug flow reactor model results indicate the high NO3- leachates are found to be due to active nitrification occurring in the upper oxidized portion of the soil columns mimicking overwinter NO3- losses via nitrification in agricultural fields. The low NO3- leachates in unfertilized columns suggest that FTC had little effect on N mineralization in soil. In Chapter 3, I provide a brief review of nitrification inhibitors and how soil properties impact nitrification inhibitor efficacy. There are only a few studies on the relationship between nitrification inhibitor efficacy and climatic factors, especially in regard to FTC. I conducted a sacrificial soil batch experiment to determine if and how nitrification inhibitors were impacted by FTC to further explore the results of Chapter 2. The batch experiment revealed the nitrification inhibitors were effective at mitigating NO3- production under freeze-thaw conditions but more effective at mitigating these losses under thaw conditions. The soils exposed to the FTC condition experienced significant N mineralization flushes in contrast to the lack of mineralization induced by FTCs in the experiment detailed in Chapter 2. In Chapter 4, I summarize the key findings of this thesis. The results showed fertilizer loss and nitrification inhibitor effectiveness are affected by freeze-thaw cycling in arable soil. The experimental and modeling results reported in this thesis could be used to bolster winter soil biogeochemical models by elucidating nutrient fluxes over changing winter conditions to refine best management practices for fertilizer application. Ultimately, these results and the conclusions drawn from them highlight several research pathways that could be undertaken to progress our understanding of the complex interactions between FTC and fertilizer dynamics.</abstract>
+    <identifier type="citekey">Krogstad-2021-Impact</identifier>
+    <identifier type="doi">10012/16827</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G21-3002</url>
+    </location>
+    <part>
+        <date>2021</date>
+    </part>
+</mods>
+</modsCollection>

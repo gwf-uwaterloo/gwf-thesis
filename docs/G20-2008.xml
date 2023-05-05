@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Bondaruk-2020-Towards">
+    <titleInfo>
+        <title>Towards Q-analysis Integration in Discrete Global Grid Systems: Methodology, Implications and Data Complexity</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Veniamin</namePart>
+        <namePart type="family">Bondaruk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Spatial data is characterized by rich contextual information with multiple characteristics at each location. The interpretation of this multifaceted data is an integral part of current technological developments, data rich environments and data driven approaches for solving complex problems. While data availability, exploitation and complexity continue to grow, new technologies, tools and methods continue to evolve in order to meet these demands, including advancing analytical capabilities, as well as the explicit formalization of geographic knowledge. In spite of these developments Discrete Global Grid Systems (DGGS) were proposed as a new comprehensive approach for transforming scientific data of various sources, types and qualities into one integrated environment. The DGGS framework was developed as the global data model and standard for efficient storage, analysis and visualization of spatial information via a discrete hierarchy of equal area cells at various spatial resolutions. Each DGGS cell is the explicit representation of the Earth surface, which can store multiple data values and be conveniently recognized and identified within the hierarchy of the DGGS system. A detailed evaluation of some notable DGGS implementations in this research indicates great prospects and flexibility in performing essential data management operations, including spatial analysis and visualization. Yet they fall short in recognizing interactivity between system components and their visualization, nor providing advanced data friendly techniques. To address these limitations and promote further theoretical advancement of DGGS, this research suggests the use of Q-analysis theory as a way to utilize the potential of the hierarchical DGGS data model via the tools of simplicial complexes and algebraic topology. As a proof of concept and demonstration of Q-analysis feasibility, the method has been applied in a water quality and water health study, the interpretation of which has revealed much contextual information about the behaviour of the water network, the spread of pollution and chain affects. It is concluded that the use of Q-analysis indeed contributes to the further advancement and development of DGGS as a data rich framework for formalizing multilevel data systems and for the exploration of new data driven and data friendly approaches to close the gap between knowledge and data complexity.</abstract>
+    <identifier type="citekey">Bondaruk-2020-Towards</identifier>
+    <identifier type="doi">10012/15722</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2008</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

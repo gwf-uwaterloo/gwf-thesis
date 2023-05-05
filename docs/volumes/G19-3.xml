@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="VanStaden-2019-Phosphorus">
+    <titleInfo>
+        <title>Phosphorus Legacies and Water Quality Risks: A Vulnerability-Based Framework in Southern Ontario</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tamara</namePart>
+        <namePart type="family">Van Staden</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Van Staden-2019-Phosphorus</identifier>
+    <identifier type="doi">10012/15357</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-3001</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+<mods ID="Glass-2019-Examining">
+    <titleInfo>
+        <title>Examining Hydrogeological Processes in Freezing Soils using Remote Geophysical and Numerical Techniques</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Brittney</namePart>
+        <namePart type="family">Glass</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Glass-2019-Examining</identifier>
+    <identifier type="doi">10012/14466</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-3002</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+</modsCollection>

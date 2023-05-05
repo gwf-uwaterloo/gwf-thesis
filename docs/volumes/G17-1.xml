@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Laird-2017-Dietary">
+    <titleInfo>
+        <title>Dietary Exposure Assessment and Contaminants Biomonitoring in the Dehcho Region, Northwest Territories: Exploring the Relationship Between Mercury Exposure, Omega-3 Fatty Acid Status, and Fish Consumption</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Laird</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>School of Public Health and Health Systems, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Laird-2017-Dietary</identifier>
+    <identifier type="doi">10012/12673</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G17-1001</url>
+    </location>
+    <part>
+        <date>2017</date>
+    </part>
+</mods>
+</modsCollection>

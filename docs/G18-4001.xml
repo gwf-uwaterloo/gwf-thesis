@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Chowdhury-2018-Biogeochemical">
+    <titleInfo>
+        <title>Biogeochemical Signatures of the Great Lakes Watersheds</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Qualbe</namePart>
+        <namePart type="given">Shadman</namePart>
+        <namePart type="family">Chowdhury</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Water quality in many regions of the Great Lakes Basin (GLB) has deteriorated due to numerous anthropogenic drivers, including increases in agricultural area, increased fertilizer use, intensive livestock production, and increases in human population densities. Excessive nutrient inputs from both point and non-point sources have accelerated eutrophication in inland watersheds and in receiving water bodies, and policy goals have recently been set to reduce phosphorus loading to Lake Erie by as much as 40%. Under such pressures, it is crucial to better our understanding of nutrient transport across the GLB and to identify key watershed drivers of both seasonal and annual nutrient loading from watersheds to the lakes. In this research study, I have utilized numerous metrics to characterize nutrient dynamics in Great Lakes Watersheds across a gradient of human impacts and have attempted to identify key controls on biogeochemical signatures. As a part of this work, I paired water quality data from over 200 Great Lakes watersheds with land use and climate data to identify dominant controls on stream nutrient concentrations at the annual, seasonal, and event scales. At the annual scale, standardized regression analysis identified significant relationships between flow-weighted concentration (FWCs) and selected catchment characteristics. FWCs were found to be strongly linked to land-use variables such as combined agricultural and urban land, wetlands and tile drainage. Our quantification of these relationships was used to create spatial maps of annual nutrient concentrations and loads and to identify nutrient hotspots across the GLB. Specifically, high nutrient concentrations and export were observed in the Maumee and Sydenham River catchments, whereas lower concentrations and loads were found in Lake Superior catchments. At the seasonal scale, three primary seasonal nutrient regimes were identified: (1) ‘in-phase’ (positive correlation between monthly concentrations and discharge), (2) ‘out-of-phase’ (negative correlation), and (3) ‘stationary’ (no significant relationship). While in-phase seasonality was found to be the most common concentration regime for watersheds with higher levels of agricultural land use, nitrate seasonality in particular was found to be muted in watersheds with the highest agricultural land use, but to be more extreme in watersheds with less agriculture but higher amounts of forested area and higher wetland densities. Out-of-phase seasonality was found to be significantly associated with higher population densities and higher percent urban areas. At the event-scale, concentrations were found to be more variable with discharge for phosphorus than for nitrate. Additionally, Lake Erie showed significantly lower concentration variability in relation to discharge compared to all the other Lakes. As the Lake Erie basin also has higher agricultural land use than the other lakes, the more chemostatic concentration dynamics in these watersheds appears to be linked to agricultural nutrient use and suggests that agricultural nutrient legacies may be an important driver of current patterns in nutrient delivery to the lakes.</abstract>
+    <identifier type="citekey">Chowdhury-2018-Biogeochemical</identifier>
+    <identifier type="doi">10012/13624</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G18-4001</url>
+    </location>
+    <part>
+        <date>2018</date>
+    </part>
+</mods>
+</modsCollection>

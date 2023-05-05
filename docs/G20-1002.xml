@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Markelov-2020-Modelling">
+    <titleInfo>
+        <title>Modelling Biogeochemical Cycles Across Scales: From Whole-Lake Phosphorus Dynamics to Microbial Reaction Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Igor</namePart>
+        <namePart type="family">Markelov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Earth and Environmental Sciences, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Lakes are ecologically, economically, and culturally significant resources that are, at the same time, very fragile and sensitive to human disturbances. During the last decades, intensified urbanization and discharge of nutrients lead to the increase of lake eutrophication in many regions of the world. Moreover, biogeochemical cycles within the lakes are changing due to climate warming, which increases water temperature and affects physical and hydrological lake regimes. In this thesis, I investigate a vast scope of the natural and anthropogenic processes affecting the biogeochemical cycles in lakes at different scales. In particular, I examine the cascading effect of the climate, regional weather, human interventions, and microbial control on phosphorus dynamics in lakes. In Chapter 2, I demonstrate that on the lake scale, phosphorus cycle is driven by internal loading and iron recycling, while it is vulnerable to the reduction of ice cover. To achieve that, I expand the existing MyLake model by incorporating a sediment diagenesis module. Moreover, I develop the continuous reaction network that couples biogeochemical reactions taking place both in water column and sediment. In the modeling scenarios, I assess the importance of the sediment processes and the effects of the climatic and anthro- pogenic drivers on water quality in Lake Vansjø, Norway. I also highlight the importance of phosphorus accumulation within the lake that controls timing and magnitude of bio- geochemical lake responses to external forcing. This includes projected changes in the air temperature, absence of ice cover, and potential management practices. In Chapter 3, I contribute to the long-standing understanding that on the scales of microbial systems, the respiration reactions exert substantial control on biogeochemi- cal cycles by regulating the availability of the electron donors and acceptors, secondary minerals, adsorption sites, and alkalinity. Moreover, I develop a new conceptual model to simulate the preferential catabolic reaction pathways based on power produced in reactions. In contrast to common kinetic rate expressions, I demonstrate that new ther- modynamically based formulations can be applied to describe the microbial respiration of arbitrary large reaction networks. New approach substantially improves the robustness, transferability, and allows the generalization of the model-derived parameters. In Chapter 4, I show that on the regional scale, weather defines hydrodynamic flush rates and water circulation patterns, which, in turn, control the phosphorus transport in Lake Erie, Canada. Specifically, precipitation controls the release of phosphorus from the watershed in the spring, while wind governs the water circulation and transport of the phosphorus released from sediment in the central basin during summer. I also illustrate that climate and weather in the upper Laurentian Great Lakes regulate changes in the water level of Lake Erie. Overall, this thesis improves the fundamental understanding of the phosphorus cycle in lakes, which is being controlled by numerous biogeochemical and physical processes at various scales. In particular, I show that the climate has a cascading effect on the phosphorus cycle in lakes. First, climate controls regional precipitation, wind, and air temperature, which in turn control phosphorus supply from the watershed and basin- wide phosphorus transport. Second, being vulnerable to climate warming, the duration of ice cover impacts the phosphorus cycle through changes in light attenuation, water temperature, mixing regimes, and water column ventilation. Lastly, local environmental perturbations (e.g., pH, temperature, or redox state) define thermodynamic properties of the sediment, which control microbial metabolism and, therefore, the internal phosphorus loading. Finally, this thesis provides new open-source tools for reactive transport simula- tions in lakes as well as in saturated media. In addition to the coupled lake-sediment model developed in Chapter 3, I develop a computer program PorousMediaLab, which performs biogeochemical simulations in water-saturated media and described In Chapter 5. PorousMediaLab is the core component of the numerical investigations presented in the thesis. For example, PorousMediaLab is applied in Chapter 2 to design and test the initial reaction network, calculate fluxes at the sediment-water interface, and estimate re- action timescales. In Chapter 3, PorousMediaLab is used to simulate the reaction rates of batch and one-dimensional sediment column using a novel approach based on the thermo- dynamic switch function. In Chapter 4, PorousMediaLab is used to build a mass balance model and to improve the current understanding of the inter-basin exchange. Both tools are open-source, and they are available online.</abstract>
+    <identifier type="citekey">Markelov-2020-Modelling</identifier>
+    <identifier type="doi">10012/15513</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-1002</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

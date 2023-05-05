@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Hrach-2020-Quantifying">
+    <titleInfo>
+        <title>Quantifying the role of shade on microclimate conditions and water use efficiency of a subalpine wetland in the Canadian Rocky Mountains, Kananaskis, Alberta</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Dylan</namePart>
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Hrach</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Alpine regions contribute 60 % of annual surface runoff, playing an important role in regulating the global water balance. Many of the world’s major river networks originate from alpine headwater basins, popularizing mountains as the “Water Towers of the World”. The Rocky Mountains represent Western Canada’s “Water Tower” since they store and distribute water resources to over 13 million people across Western Canada and the Pacific Northwest USA. At the headwater, topography causes land surfaces to cycle in and out of shadows, creating distinct microclimates that strongly influence evapotranspiration (ET) and carbon fluxes. Yet, relatively few studies have observed the relationship between the energy, water, and carbon fluxes of mountain catchments; and have rather focused on periods of snow and ice cover. Therefore, understanding the contribution of subalpine wetlands to the water budget remains a leading hydrological need in mountain areas worldwide. This thesis attempts to address these knowledge gaps by investigating the influence of complex terrain on the spatial and temporal variability of shade across a subalpine wetland (2,083 m a.s.l.) in the Canadian Rocky Mountains and the effect of shade on seasonal flux dynamics. Meteorological and eddy covariance equipment was installed from June 7th to September 10th to establish baseline environment conditions and to monitor the turbulent and radiative fluxes over the 2018 snow free period. Hill shade and solar radiation models for clear-sky days were compared to field observations to understand how shade impacted the energy, water, and carbon fluxes. Water Use Efficiency (WUE) was used as a metric to understand the relationship between water and carbon cycling. Overall, shade shortened the growing season and prolonged snowmelt. Shade was greatest near the headwall and reduced cumulative solar radiation by 86.4 MJ over the study period. When shade was low and constant during the period of Stable Shade (June 7th – July 30th), it had a non-significant relationship with incoming solar radiation (K↓) and net radiation (Q*); however, when shade rapidly increased during the period of Dynamic Shade (July 31st – September 10th) it strongly influenced K↓ and Q*. On average, during Dynamic Shade, each hourly increase of shade per day, reduced K↓ and Q* by 32 W/m2 and 28 W/m2, equivalent to 13 % and 16 %, respectively. Water and carbon fluxes had a similar response to shade as the energy fluxes. Each hourly increase of shade reduced ET and Gross Primary Production (GPP) by similar margins: 17 % and 15 %, respectively. Therefore, WUE remained relatively unaffected by horizon shade, because shade equally reduced ET and GPP. These findings indicate that under uncertain future climate scenarios (i.e. increased risk of flood, drought, and forest fires), shade may be an important mechanism for moisture conservation in a variety of subalpine ecosystems that are at risk of late season water stress.</abstract>
+    <identifier type="citekey">Hrach-2020-Quantifying</identifier>
+    <identifier type="doi">10012/15500</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2004</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

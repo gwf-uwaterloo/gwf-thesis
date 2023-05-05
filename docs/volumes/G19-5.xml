@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Papangelakis-2019-Bedload">
+    <titleInfo>
+        <title>Bedload sediment transport regimes of urban gravel-bed rivers under different management scenarios</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Elli</namePart>
+        <namePart type="family">Papangelakis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Civil and Environmental Engineering, Doctoral Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Papangelakis-2019-Bedload</identifier>
+    <identifier type="doi">10012/15295</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G19-5001</url>
+    </location>
+    <part>
+        <date>2019</date>
+    </part>
+</mods>
+</modsCollection>

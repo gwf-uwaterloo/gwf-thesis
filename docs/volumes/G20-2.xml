@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Ghiasi-2020-Application">
+    <titleInfo>
+        <title>Application of GNSS Interferometric Reflectometry for Lake Ice Studies</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Seyed</namePart>
+        <namePart type="given">Yusof</namePart>
+        <namePart type="family">Ghiasi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Ghiasi-2020-Application</identifier>
+    <identifier type="doi">10012/16447</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2001</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="Marshall-2020-Effects">
+    <titleInfo>
+        <title>Effects of Tillage and Fertilizer Placement on Subsurface Phosphorus Loss Following Fall Manure Application over the Non-Growing Season</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Meredith</namePart>
+        <namePart type="family">Marshall</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Marshall-2020-Effects</identifier>
+    <identifier type="doi">10012/16373</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2002</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="Price-2020-Contribution">
+    <titleInfo>
+        <title>Contribution of Point Source Inputs of Phosphorus from a Bunker Silo in a Small Agricultural Watershed in Southern Ontario, Canada</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Dylan</namePart>
+        <namePart type="family">Price</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Price-2020-Contribution</identifier>
+    <identifier type="doi">10012/16394</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2003</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="Hrach-2020-Quantifying">
+    <titleInfo>
+        <title>Quantifying the role of shade on microclimate conditions and water use efficiency of a subalpine wetland in the Canadian Rocky Mountains, Kananaskis, Alberta</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Dylan</namePart>
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Hrach</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Hrach-2020-Quantifying</identifier>
+    <identifier type="doi">10012/15500</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2004</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="Williamson-2020-Assessing">
+    <titleInfo>
+        <title>Assessing the role of tree growth patterns on the spatial variability of evapotranspiration on a subalpine transition zone in Kananaskis, Alberta</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jessica</namePart>
+        <namePart type="family">Williamson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Williamson-2020-Assessing</identifier>
+    <identifier type="doi">10012/15941</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2005</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="Flemming-2020-Downscaling">
+    <titleInfo>
+        <title>Downscaling Coarse Resolution Satellite Passive Microwave SWE Estimates</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Margot</namePart>
+        <namePart type="family">Flemming</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Flemming-2020-Downscaling</identifier>
+    <identifier type="doi">10012/15919</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2006</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="MirnaslBonab-2020-The">
+    <titleInfo>
+        <title>The Impact of Spatial Decision Variables Influencing Crop Rotation on Phosphorus Load Reduction: A Hydrologic Modeling Approach</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Seyedeh</namePart>
+        <namePart type="given">Nayyer</namePart>
+        <namePart type="family">Mirnasl Bonab</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Mirnasl Bonab-2020-The</identifier>
+    <identifier type="doi">10012/15471</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2007</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+<mods ID="Bondaruk-2020-Towards">
+    <titleInfo>
+        <title>Towards Q-analysis Integration in Discrete Global Grid Systems: Methodology, Implications and Data Complexity</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Veniamin</namePart>
+        <namePart type="family">Bondaruk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">Bondaruk-2020-Towards</identifier>
+    <identifier type="doi">10012/15722</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G20-2008</url>
+    </location>
+    <part>
+        <date>2020</date>
+    </part>
+</mods>
+</modsCollection>

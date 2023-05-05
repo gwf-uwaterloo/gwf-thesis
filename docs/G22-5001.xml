@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Wang-2022-Snow">
+    <titleInfo>
+        <title>Snow Depth Retrieval from Wide Band Radar in Trail Valley Creek</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Wei</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Geography and Environmental Management, Master Thesis</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>University of Waterloo</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <abstract>Snow is an essential component in hydrology systems, and more speci cally, monitoring variations in snow cover can provide valuable information about water supply, wildlife habitats, and climate changes. In recent years, the potential of wide band snow radar (e.g. 2-8 GHz) has been discovered with a series of campaigns in Operation IceBrdige (OIB). Due to data from OIB mainly focusing on sea ice, most of the algorithms were also developed for snow on sea ice. As a result, this thesis aimed to test the applicability of the interface-based pulse peakiness snow depth retrieval method to snow on land. In addition, due to the common usage of radar altimeter in sea ice classi cation, this thesis also explored the possibility of adapting some of the ideas in sea ice classi cation to develop another retrieval method. Both approaches were tested on the 6 major vegetation types (tree, tall shrub, riparian shrub, dwarf shrub, tussock, and lichen) in the study area. Snow depth derived from Airborne Laser Scanner (ALS) point clouds was used as the reference for snow depth retrieval. Running the recalibrated pulse peakiness algorithm yielded a Mean Absolute Error (MAE) of 12 cm, 27 cm, 29 cm, 13 cm, 9 cm, and 10 cm for tree, tall shrub, riparian shrub, dwarf shrub, tussock and lichen respectively. It was concluded that the principles behind the pulse peakiness approach is valid for snow on land. The presence of surface vegetation and the hummocky terrain of the study area did present some considerable challenges. In comparison, the classi cation approach using K-means while produced some accurate results under speci c situations, was not as robust as the existing pulse peakiness approach. Although, it was argued that the classi cation approach was in early stages and there were some potential for better results.</abstract>
+    <identifier type="citekey">Wang-2022-Snow</identifier>
+    <identifier type="doi">10012/17915</identifier>
+    <location>
+        <url>https://gwf-uwaterloo.github.io/gwf-publications/G22-5001</url>
+    </location>
+    <part>
+        <date>2022</date>
+    </part>
+</mods>
+</modsCollection>
