@@ -26,7 +26,7 @@ To build the Anthology website, you will need:
 Clone the Anthology repo to your local machine:
 
 ```bash
-$ git clone https://github.com/gwf-uwaterloo/gwf-publications
+$ git clone https://github.com/gwf-uwaterloo/gwf-thesis
 ```
 
 ### Generating
@@ -37,7 +37,7 @@ you cloned the repo.
 
 We used the command below because of the domain:
 ```bash
-sudo ANTHOLOGY_PREFIX="https://gwf-uwaterloo.github.io/gwf-publications" make
+sudo ANTHOLOGY_PREFIX="https://gwf-uwaterloo.github.io/gwf-thesis" make
 ```
 The fully generated website will be in `build/website` afterwards. You can see the resulting website by launching
 a local webserver with `make serve`, which will serve it at http://localhost:8000.
